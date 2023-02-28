@@ -1,0 +1,12 @@
+{
+  "name": "pupeteer-learning",
+  "version": "1.0.0",
+  "description": "test desc",
+  "main": "index.js",
+  "author": "Bapita",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.7.2",
+    "puppeteer-core": "^19.7.2"
+  }
+}
